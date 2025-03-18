@@ -11,8 +11,7 @@ Welcome to the Free ATS Score Checker, a tool designed to evaluate your resume a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
